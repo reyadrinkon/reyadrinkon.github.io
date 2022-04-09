@@ -35,6 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Contact
 
+`reyad34@student.sust.edu`
 
 [reyad34@student.sust.edu](reyad34@student.sust.edu)
 
