@@ -1,8 +1,9 @@
 ## Welcome
 
-Hi I am Reyad Hasan Rinkon.I am studing Computer Science and Engineering in Shahjalal University of Science and Technology.
+Hi I am Reyad Hasan Rinkon.I am studing Computer Science and Engineering in Shahjalal University of Science and Technology,Sylhet,Bangladesh. I completed my HSC from Notre Dame College in 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I am a machine learning enthusiast
 
 ### Markdown
 
@@ -32,7 +33,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reyadrinkon/reyadrinkon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-[Mail](reyad34@student.sust.edu)
+
+[reyad34@student.sust.edu](reyad34@student.sust.edu)
+
+
+----------
+Last update---9/04/2022
